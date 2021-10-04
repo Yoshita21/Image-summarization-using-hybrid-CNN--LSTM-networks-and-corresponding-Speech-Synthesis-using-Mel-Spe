@@ -1,1 +1,4 @@
+--project report is uploaded--
 # Image-summarization-using-hybrid-CNN--LSTM-networks-and-corresponding-Speech-Synthesis-using-Mel-Spectrum
+# ABOUT
+Be it for assistance, or for a more automated entity in a device, image-to-text-to-speech is an up and coming trend in today‟s computerized world. In this paper, we deal with summarising or captioning, an image that is being fed to the system. Moving it a step further, the text will then be synthesized into speech. Having various applications for it, such as assistance for physically handicapped to captioning out news headlines, this was considered as one of the promising fields of research and experimentation. This project attempts to approach this problem with a hybrid CNN-LSTM network model for the image to text conversion, and a mel spectrogram combined with a wavenet generator to help tackle the text-to-speech section.
